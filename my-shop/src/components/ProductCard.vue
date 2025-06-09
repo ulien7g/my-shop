@@ -65,4 +65,8 @@ export default {
   cursor: pointer;
   margin-bottom: 20px;
 }
+
+.buy-button:hover {
+  background-color: #0056b3;
+}
 </style>
