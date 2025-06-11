@@ -2,12 +2,12 @@
 </template>
 
 <script>
-import ProductCard from './components/ProductCard.vue'
+import ProductList from './components/ProductList.vue'
 
 export default {
   name: 'App',
   components: {
-    ProductCard
+    ProductList
   }
 }
 </script>
